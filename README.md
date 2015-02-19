@@ -10,7 +10,8 @@ c'est une library PHP Composer
 si vous êtes interressés contactez moi par mail
 
 pour le code source : 500 euros
-pour des extractions de données : 200 euros
+
+pour des extractions de données : contactez moi par mail
 
 merci
 

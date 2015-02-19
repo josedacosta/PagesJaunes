@@ -9,7 +9,9 @@ c'est une library PHP Composer
 
 si vous êtes interressés contactez moi par mail
 
-pour des extractions de données : contactez moi par mail
+contactez moi par mail :
+pour des extractions de données
+ou pas obtenir le code
 
 merci
 

@@ -9,7 +9,7 @@ lib PHP Composer
 
 si vous êtes interressés contactez moi par mail :
 pour des extractions de données
-ou pour obtenir le code
+ou pour obtenir le code source
 
 merci
 
